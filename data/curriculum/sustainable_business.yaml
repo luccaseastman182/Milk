@@ -1,0 +1,30 @@
+course:
+  id: 1
+  title: "Sustainable Business Operations Certification"
+  description: "Learn how to implement sustainable practices in business operations."
+  price: 299.99
+  curriculum:
+    - module: 1
+      title: "Introduction to Sustainable Business"
+      description: "Overview of sustainable business practices and their importance."
+    - module: 2
+      title: "Sustainable Supply Chain Management"
+      description: "Strategies for creating and managing a sustainable supply chain."
+    - module: 3
+      title: "Energy Efficiency in Business"
+      description: "Techniques for improving energy efficiency in business operations."
+    - module: 4
+      title: "Waste Reduction and Recycling"
+      description: "Methods for reducing waste and implementing recycling programs."
+    - module: 5
+      title: "Sustainable Marketing and Branding"
+      description: "Approaches to marketing and branding that emphasize sustainability."
+    - module: 6
+      title: "Sustainable Business Models"
+      description: "Exploring different business models that prioritize sustainability."
+    - module: 7
+      title: "Corporate Social Responsibility"
+      description: "Understanding the role of corporate social responsibility in business."
+    - module: 8
+      title: "Sustainable Business Case Studies"
+      description: "Analyzing real-world examples of successful sustainable businesses."

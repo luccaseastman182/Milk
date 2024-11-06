@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Admin Dashboard</h1>
+<p>Welcome to the admin dashboard. Here you can manage users and courses.</p>
+
+<div>
+    <h2>Manage Users</h2>
+    <a href="{{ url_for('admin.manage_users') }}">Go to User Management</a>
+</div>
+
+<div>
+    <h2>Manage Courses</h2>
+    <a href="{{ url_for('admin.manage_courses') }}">Go to Course Management</a>
+</div>
+{% endblock %}

@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Courses</h1>
+<ul>
+    {% for course in courses %}
+    <li><a href="{{ url_for('courses.details', course_id=course.id) }}">{{ course.title }}</a> - ${{ course.price }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}

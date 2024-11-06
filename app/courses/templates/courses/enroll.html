@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Enroll in {{ course.title }}</h1>
+<p>{{ course.description }}</p>
+<p>Price: ${{ course.price }}</p>
+<form action="{{ url_for('courses.enroll', course_id=course.id) }}" method="POST">
+    <label for="name">Name:</label>
+    <input type="text" name="name" required>
+    <label for="email">Email:</label>
+    <input type="email" name="email" required>
+    <button type="submit">Enroll Now</button>
+</form>
+{% endblock %}

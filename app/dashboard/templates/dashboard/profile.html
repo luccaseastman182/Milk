@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>User Profile</h1>
+<form action="{{ url_for('dashboard.profile') }}" method="POST">
+    <label for="email">Email:</label>
+    <input type="email" name="email" value="{{ user.email }}" required>
+    <button type="submit">Update Profile</button>
+</form>
+{% endblock %}

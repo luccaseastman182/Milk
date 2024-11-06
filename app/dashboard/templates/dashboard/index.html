@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Welcome to your Dashboard, {{ user.email }}</h1>
+<p>Here you can manage your profile, settings, and view your courses.</p>
+<ul>
+    <li><a href="{{ url_for('dashboard.profile') }}">Profile</a></li>
+    <li><a href="{{ url_for('dashboard.settings') }}">Settings</a></li>
+    <li><a href="{{ url_for('courses.index') }}">My Courses</a></li>
+</ul>
+{% endblock %}
