@@ -1,0 +1,30 @@
+course:
+  id: 4
+  title: "Agile Operations Management Certification"
+  description: "Gain expertise in agile methodologies for efficient operations management."
+  price: 349.99
+  curriculum:
+    - module: 1
+      title: "Introduction to Agile Operations"
+      description: "Overview of agile methodologies and their importance in operations management."
+    - module: 2
+      title: "Agile Project Management"
+      description: "Techniques for managing projects using agile methodologies."
+    - module: 3
+      title: "Scrum Framework"
+      description: "Understanding the Scrum framework and its application in operations management."
+    - module: 4
+      title: "Kanban Method"
+      description: "Implementing the Kanban method for efficient workflow management."
+    - module: 5
+      title: "Agile Tools and Techniques"
+      description: "Overview of tools and techniques used in agile operations management."
+    - module: 6
+      title: "Agile Metrics and Reporting"
+      description: "Using metrics and reporting to track and improve agile operations."
+    - module: 7
+      title: "Agile Leadership"
+      description: "Developing leadership skills for managing agile teams."
+    - module: 8
+      title: "Case Studies in Agile Operations"
+      description: "Analyzing real-world examples of successful agile operations management."

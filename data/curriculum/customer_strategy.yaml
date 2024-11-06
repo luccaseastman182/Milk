@@ -1,0 +1,24 @@
+course:
+  id: 5
+  title: "Customer-Centric Business Strategy Certification"
+  description: "Learn strategies to create a customer-centric business approach."
+  price: 299.99
+  curriculum:
+    - module:
+        title: "Introduction to Customer-Centricity"
+        description: "Understand the importance of a customer-centric approach in business."
+    - module:
+        title: "Customer Journey Mapping"
+        description: "Learn how to map the customer journey to identify key touchpoints."
+    - module:
+        title: "Customer Feedback and Insights"
+        description: "Discover methods to gather and analyze customer feedback."
+    - module:
+        title: "Personalization Strategies"
+        description: "Implement strategies to personalize customer experiences."
+    - module:
+        title: "Customer Retention Techniques"
+        description: "Explore techniques to retain customers and build loyalty."
+    - module:
+        title: "Measuring Customer Success"
+        description: "Learn how to measure and track customer success metrics."

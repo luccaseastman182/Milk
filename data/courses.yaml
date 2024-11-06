@@ -1,0 +1,21 @@
+courses:
+  - id: 1
+    title: "Sustainable Business Operations Certification"
+    description: "Learn how to implement sustainable practices in business operations."
+    price: 299.99
+  - id: 2
+    title: "Digital Hospitality Experience Certification"
+    description: "Master the art of providing exceptional digital hospitality experiences."
+    price: 249.99
+  - id: 3
+    title: "Inclusive Business Leadership Certification"
+    description: "Develop skills to lead diverse and inclusive teams effectively."
+    price: 199.99
+  - id: 4
+    title: "Agile Operations Management Certification"
+    description: "Gain expertise in agile methodologies for efficient operations management."
+    price: 349.99
+  - id: 5
+    title: "Customer-Centric Business Strategy Certification"
+    description: "Learn strategies to create a customer-centric business approach."
+    price: 299.99

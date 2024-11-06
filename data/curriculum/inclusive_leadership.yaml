@@ -1,0 +1,30 @@
+course:
+  id: 3
+  title: "Inclusive Business Leadership Certification"
+  description: "Develop skills to lead diverse and inclusive teams effectively."
+  price: 199.99
+  curriculum:
+    - module: 1
+      title: "Introduction to Inclusive Leadership"
+      description: "Overview of inclusive leadership and its importance in the modern business landscape."
+    - module: 2
+      title: "Building Diverse Teams"
+      description: "Strategies for building and managing diverse teams."
+    - module: 3
+      title: "Inclusive Communication"
+      description: "Techniques for effective communication in diverse teams."
+    - module: 4
+      title: "Unconscious Bias"
+      description: "Understanding and addressing unconscious bias in the workplace."
+    - module: 5
+      title: "Inclusive Decision Making"
+      description: "Approaches to making inclusive decisions that consider diverse perspectives."
+    - module: 6
+      title: "Cultural Competence"
+      description: "Developing cultural competence to lead diverse teams effectively."
+    - module: 7
+      title: "Inclusive Leadership Tools and Techniques"
+      description: "Overview of tools and techniques for inclusive leadership."
+    - module: 8
+      title: "Case Studies in Inclusive Leadership"
+      description: "Analyzing real-world examples of successful inclusive leadership."

@@ -1,0 +1,30 @@
+course:
+  id: 2
+  title: "Digital Hospitality Experience Certification"
+  description: "Master the art of providing exceptional digital hospitality experiences."
+  price: 249.99
+  curriculum:
+    - module: 1
+      title: "Introduction to Digital Hospitality"
+      description: "Overview of digital hospitality and its importance in the modern business landscape."
+    - module: 2
+      title: "Customer Experience Design"
+      description: "Techniques for designing exceptional digital customer experiences."
+    - module: 3
+      title: "Digital Communication Strategies"
+      description: "Effective communication strategies for engaging with customers online."
+    - module: 4
+      title: "Personalization and Customization"
+      description: "Methods for personalizing and customizing digital interactions with customers."
+    - module: 5
+      title: "Digital Customer Service"
+      description: "Best practices for providing excellent customer service through digital channels."
+    - module: 6
+      title: "Data-Driven Decision Making"
+      description: "Using data and analytics to improve digital hospitality experiences."
+    - module: 7
+      title: "Digital Hospitality Tools and Technologies"
+      description: "Overview of tools and technologies used in digital hospitality."
+    - module: 8
+      title: "Case Studies in Digital Hospitality"
+      description: "Analyzing real-world examples of successful digital hospitality implementations."

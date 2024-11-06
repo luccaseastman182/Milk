@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Curriculum for {{ course.title }}</h1>
+<ul>
+    {% for module in course.curriculum %}
+    <li>{{ module.title }} - {{ module.description }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}
